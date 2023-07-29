@@ -1,0 +1,79 @@
+[09-Jun-2023 09:45:39 UTC] PHP Warning:  Attempt to read property "public" on null in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/mu-plugins/endurance-page-cache.php on line 544
+[09-Jun-2023 10:14:45 UTC] PHP Warning:  Attempt to read property "title" on null in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-includes/class-wp-customize-widgets.php on line 905
+[09-Jun-2023 13:22:56 UTC] PHP Warning:  Undefined array key "data" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 175
+[09-Jun-2023 13:22:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363
+[14-Jun-2023 10:31:57 UTC] PHP Warning:  Undefined array key "ninja_forms_templates" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/royal-elementor-addons/modules/forms/widgets/wpr-forms.php on line 2417
+[14-Jun-2023 10:31:59 UTC] PHP Warning:  Attempt to read property "post_content" on array in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/wpforms-lite/src/Frontend/Frontend.php on line 215
+[14-Jun-2023 10:31:59 UTC] PHP Warning:  Attempt to read property "ID" on array in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/wpforms-lite/src/Frontend/Frontend.php on line 216
+[14-Jun-2023 10:31:59 UTC] PHP Warning:  Attempt to read property "ID" on array in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/wpforms-lite/src/Frontend/Frontend.php on line 373
+[14-Jun-2023 10:32:24 UTC] PHP Warning:  Undefined array key "caldera_forms_templates" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/royal-elementor-addons/modules/forms/widgets/wpr-forms.php on line 2421
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "seq_num" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 271
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "seq_num" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 272
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "updated_at" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 359
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "updated_at" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 360
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "updated_at" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 359
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "updated_at" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 360
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "updated_at" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 359
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "updated_at" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 360
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "updated_at" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 359
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "updated_at" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 360
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "id" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 456
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "id" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 457
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "personally_identifiable" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 456
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "personally_identifiable" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 457
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "id" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 456
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "id" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 457
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "personally_identifiable" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 456
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "personally_identifiable" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 457
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "id" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 456
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "id" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 457
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "personally_identifiable" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 456
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "personally_identifiable" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 457
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "id" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 456
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "id" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 457
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "required" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 456
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "required" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 457
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "default" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 456
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "default" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 457
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "label_pos" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 456
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "label_pos" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 457
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "personally_identifiable" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 456
+[14-Jun-2023 11:38:09 UTC] PHP Warning:  Undefined array key "personally_identifiable" in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/ninja-forms/includes/Admin/Processes/ImportForm.php on line 457
+[15-Jun-2023 10:21:52 UTC] PHP Warning:  Attempt to read property "title" on null in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Jun-2023 06:54:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-admin/includes/template.php:2639) in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-includes/pluggable.php on line 1427
+[27-Jun-2023 06:54:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-admin/includes/template.php:2639) in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-includes/pluggable.php on line 1430
+[27-Jun-2023 07:06:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-admin/includes/template.php:2639) in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-includes/pluggable.php on line 1427
+[27-Jun-2023 07:06:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-admin/includes/template.php:2639) in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-includes/pluggable.php on line 1430
+[27-Jun-2023 07:11:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-admin/includes/template.php:2639) in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-includes/pluggable.php on line 1427
+[27-Jun-2023 07:11:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-admin/includes/template.php:2639) in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-includes/pluggable.php on line 1430
+[27-Jun-2023 07:11:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-admin/includes/template.php:2639) in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-includes/pluggable.php on line 1427
+[27-Jun-2023 07:11:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-admin/includes/template.php:2639) in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-includes/pluggable.php on line 1430
+[27-Jun-2023 09:00:13 UTC] PHP Warning:  Attempt to read property "title" on null in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-includes/class-wp-customize-widgets.php on line 905
+[10-Jul-2023 08:35:00 UTC] PHP Warning:  scandir(/home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/endurance-page-cache/contact-us): Failed to open directory: No such file or directory in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/mu-plugins/endurance-page-cache.php on line 895
+[10-Jul-2023 08:35:00 UTC] PHP Warning:  scandir(): (errno 2): No such file or directory in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/mu-plugins/endurance-page-cache.php on line 895
+[10-Jul-2023 08:35:00 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/mu-plugins/endurance-page-cache.php:895
+Stack trace:
+#0 /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/mu-plugins/endurance-page-cache.php(890): Endurance_Page_Cache->purge_dir('/home1/betam4jh...')
+#1 /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/mu-plugins/endurance-page-cache.php(915): Endurance_Page_Cache->purge_dir()
+#2 /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/mu-plugins/endurance-page-cache.php(516): Endurance_Page_Cache->purge_all()
+#3 /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-includes/class-wp-hook.php(308): Endurance_Page_Cache->option_handler('wpdeveloper_plu...', Array, Array)
+#4 /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#5 /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-includes/option.php(581): do_action('updated_option', 'wpdeveloper_plu...', Array, Array)
+#7 /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/essential-addons-for-elementor-lite/includes/Classes/WPDeveloper_Notice.php(672): update_option('wpdeveloper_plu...', Array)
+#8 /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/essential-addons-for-elementor-lite/includes/Classes/WPDeveloper_Notice.php(260): Essential_Addons_Elementor\Classes\WPDeveloper_Notice->update_options_data(Array)
+#9 /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/plugins/essential-addons-for-elementor-lite/includes/Classes/WPDeveloper_Notice.php(175): Essential_Addons_Elementor\Classes\WPDeveloper_Notice->maybe_later('opt_in')
+#10 /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-includes/class-wp-hook.php(308): Essential_Addons_Elementor\Classes\WPDeveloper_Notice->hooks('')
+#11 /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#12 /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#13 /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-settings.php(623): do_action('init')
+#14 /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-config.php(96): require_once('/home1/betam4jh...')
+#15 /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-load.php(50): require_once('/home1/betam4jh...')
+#16 /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-admin/admin.php(34): require_once('/home1/betam4jh...')
+#17 /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-admin/index.php(10): require_once('/home1/betam4jh...')
+#18 {main}
+  thrown in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-content/mu-plugins/endurance-page-cache.php on line 895
+[18-Jul-2023 18:52:12 UTC] PHP Warning:  Attempt to read property "title" on null in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-includes/class-wp-customize-widgets.php on line 905
+[18-Jul-2023 19:21:18 UTC] PHP Warning:  Attempt to read property "title" on null in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-includes/class-wp-customize-widgets.php on line 905
+[18-Jul-2023 19:21:38 UTC] PHP Warning:  Attempt to read property "title" on null in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-includes/class-wp-customize-widgets.php on line 905
+[18-Jul-2023 19:23:17 UTC] PHP Warning:  Attempt to read property "title" on null in /home1/betam4jh/Saferoads.betamxpertz.xyz/wp-includes/class-wp-customize-widgets.php on line 905
